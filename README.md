@@ -20,6 +20,14 @@ Suggested time box `[Maximum 4 hours]`
 
 ## Designs
 
+### Task Screen
+
+![Task Screen](https://github.com/andersen-ev/TechTestMobile/blob/main/Designs/Tasks%20screen.png)
+ 
+### New Task Screen
+
+![New Task Screen](https://github.com/andersen-ev/TechTestMobile/blob/main/Designs/New%20task%20screen.png)
+
 Images of the desired designs can be found in the `Designs` folder or at the following 2 links.
 
 - [Tasks screen](https://xd.adobe.com/view/3aedb549-9133-4531-b16f-2a43f2cd9d2b-6fbe/)
@@ -29,6 +37,8 @@ Images of the desired designs can be found in the `Designs` folder or at the fol
 - Button colour: #9FB6B1
 
 - Logo available in this repository [white_Kønnect_01.png]
+
+![Logo](https://github.com/andersen-ev/TechTestMobile/blob/main/white_Kønnect_01.png)
 
 ## Submission
 
